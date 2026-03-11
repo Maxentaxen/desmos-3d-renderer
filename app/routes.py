@@ -31,3 +31,11 @@ def upload_file():
       <input type=submit value=Upload>
     </form>
     '''
+
+# The idea
+
+# Use a function in python to parse the .obj file and 
+# return the vertex coordinates, normals and faces.
+# Then use javascript inside of the return of the route to run those commands and 
+# create the required desmos lines
+# will definitely work 100% trust me :D
